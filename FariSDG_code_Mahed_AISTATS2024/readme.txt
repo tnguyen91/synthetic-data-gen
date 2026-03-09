@@ -1,0 +1,1 @@
+Please run main_CF.py, parameters of GAN can be given as arguments when running this file.
